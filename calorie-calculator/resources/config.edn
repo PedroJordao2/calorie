@@ -1,0 +1,5 @@
+{:port         3000
+ :rapi-host    "dietagram.p.rapidapi.com"
+ :rapi-key     "25956a61cbmsh0d4da77cb877279p1e8e48jsn684900c999ce"
+ :ninjas-host  "calories-burned-by-api-ninjas.p.rapidapi.com"
+ :ninjas-key   "25956a61cbmsh0d4da77cb877279p1e8e48jsn684900c999ce"}
